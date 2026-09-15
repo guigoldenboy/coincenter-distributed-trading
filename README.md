@@ -4,7 +4,7 @@ A distributed asset trading system built for a Distributed Applications course. 
 
 The interesting part isn't the trading logic. It's that the notification layer runs on ZooKeeper instead of a database flag or a cron job, and every client-server call is TLS-encrypted from the start rather than bolted on later.
 
-##Built for a Distributed Applications course (IT BSc). Graded 20 out of 20.
+## Built for a Distributed Applications course (IT BSc). Graded 20 out of 20.
 
 ## Architecture
 
