@@ -1,0 +1,17 @@
+# Database
+*.db
+
+# Certificates and keys
+certs/
+*.key
+*.crt
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
